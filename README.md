@@ -2,6 +2,8 @@ I forked the original project and made changes.
 
 The following were added.
 
+Live url http://thiswolf.github.io/kili/
+
 - Twitter bootstrap 3.x.x
 - Parallax effect
 - Fully responsive down to mobile
