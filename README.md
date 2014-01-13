@@ -31,6 +31,7 @@ Live url http://thiswolf.github.io/kili/
 - Used subtle backgrounds instead of solid rgb or rgba colors
 - Made it possible and easy to make css skins by having easy to follow css styles
 - Valid HTML5 code http://validator.w3.org/check?uri=http%3A%2F%2Fthiswolf.github.io%2Fkili%2F&charset=%28detect+automatically%29&doctype=Inline&group=0
+
 ***Important***
 
 - Gloriously defeated all bugs by invoking the 'you shall not pass' clause. Gandalf then left.
