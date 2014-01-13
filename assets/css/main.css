@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "latolight";
+  src: url("fonts/lato-light-webfont.woff");
+  }
+  
+   @font-face {
+  font-family: "pl";
+  src: url("fonts/pl.otf");
+  }
+
+    @font-face {
+  font-family: "narrator";
+  src: url("fonts/narrator.otf");
+  }
+  
+   @font-face {
+  font-family: "dekar";
+  src: url("fonts/dekar.otf");
+  }
+  @font-face {
+  font-family: "rawe";
+  src: url("fonts/rawe.otf");
+  }
+  
+  .nav{
+ display:inline-block;
+ margin-left:30%;
+  }
+  
+  p {
+  white-space: pre-line;
+ }
+ 
+ 
+
