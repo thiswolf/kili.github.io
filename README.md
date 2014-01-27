@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/thiswolf/kili.png?branch=master)](https://travis-ci.org/thiswolf/kili)
+
 I forked the original project and made changes.
 
 The following were added.
