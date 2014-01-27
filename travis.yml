@@ -1,0 +1,2 @@
+# see http://about.travis-ci.org/docs/user/languages/javascript/ for more hints
+language: javascript
